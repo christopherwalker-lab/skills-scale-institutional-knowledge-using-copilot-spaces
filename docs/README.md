@@ -25,6 +25,7 @@ Welcome to the OctoAcme Project Management documentation hub! This central resou
 
 ### Process Area Descriptions
 
+- **Project Management Overview:** Provides a concise introduction to OctoAcme's approach, roles, principles, and key artifacts
 - **Project Initiation:** Outlines intake, goals, and success criteria
 - **Project Planning:** Scope definition, scheduling, resourcing, and dependency management
 - **Execution & Tracking:** Communication rituals, ongoing status, issue management, course correction
