@@ -41,3 +41,7 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Related Documents
+- [Project Planning](octoacme-project-planning.md) - Next phase after initiation approval
+- [Project Closure Checklist](project-closure-checklist.md) - Reference for end-to-end project lifecycle understanding
