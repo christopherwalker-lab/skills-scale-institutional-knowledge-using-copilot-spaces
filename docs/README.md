@@ -23,6 +23,12 @@ Welcome to the OctoAcme Project Management documentation hub! This central resou
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
 
+## Checklists & Templates
+
+- [Risk Escalation Checklist](risk-escalation-checklist.md)
+- [Project Closure Checklist](project-closure-checklist.md)
+- [Stakeholder Communication Summary Template](stakeholder-communication-template.md)
+
 ### Process Area Descriptions
 
 - **Project Management Overview:** Provides a concise introduction to OctoAcme's approach, roles, principles, and key artifacts
@@ -31,5 +37,11 @@ Welcome to the OctoAcme Project Management documentation hub! This central resou
 - **Execution & Tracking:** Communication rituals, ongoing status, issue management, course correction
 - **Risks & Communications:** Risk identification, escalation, communication framework
 - **Release & Deployment:** Preparation, readiness checks, deployment process, post-implementation steps
-- **Retrospective & Continuous Improvement:** Lessons learned, best practices integration
+- **Retrospective & Continuous Improvement:** Lessons learned, best practices integration, feedback loops
 - **Roles & Personas:** Role definitions and responsibilities within project management
+
+### Templates & Checklists
+
+- **Risk Escalation Checklist:** Step-by-step guide for escalating risks with complete information and proper preparation
+- **Project Closure Checklist:** Comprehensive checklist ensuring proper project closure, knowledge capture, and stakeholder communication
+- **Stakeholder Communication Summary Template:** Standardized format for regular stakeholder updates with health dashboard and decision tracking

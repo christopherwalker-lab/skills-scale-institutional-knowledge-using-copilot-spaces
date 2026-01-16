@@ -33,7 +33,7 @@ Applies to all cross-functional projects that deliver product features, services
 2. Planning: scope, resources, milestones, dependencies.
 3. Execution: build, test, review, iterate.
 4. Release: deploy, verify, announce.
-5. Close & Retrospective: capture learnings and next steps.
+5. Close & Retrospective: capture learnings and next steps. See [Project Closure Checklist](project-closure-checklist.md) for detailed closure guidance.
 
 ## Communication Cadence
 - Weekly sync between PM + PdM
